@@ -42,6 +42,14 @@ namespace ClasesHerencia
                 Sueldo = 12
             });
 
+            listaDocentes.Add(new Docente()
+            {
+                Cuenta = "lidia",
+                Password = "12477",
+                Nombre = "Lidia",
+                Sueldo = 23
+            });
+
             MostrarLista(listaDocentes);
 
             Double promedio = getPromedio(listaDocentes);
