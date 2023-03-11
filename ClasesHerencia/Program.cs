@@ -50,6 +50,14 @@ namespace ClasesHerencia
                 Sueldo = 23
             });
 
+            listaDocentes.Add(new Docente()
+            {
+                Cuenta = "jOSE",
+                Password = "12477",
+                Nombre = "Jose",
+                Sueldo = 12
+            });
+
             MostrarLista(listaDocentes);
 
             Double promedio = getPromedio(listaDocentes);
@@ -108,7 +116,7 @@ namespace ClasesHerencia
 
         private static void MostrarLista(List<Docente> listaDocentes)
         {
-            Console.WriteLine("\n------- LISTA DE DOCENTES --------\n");
+            Console.WriteLine("\n------- LISTA DE DOCENTES y OTROSS --------\n");
 
             foreach (Docente item in listaDocentes)
             {
