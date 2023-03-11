@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace ClasesHerencia
 {
-    internal class Docente : Usuario
+    internal class Trabajador : Usuario
     {
         /// <summary>
-        /// Sueldo del docente modificado
+        /// Sueldo del docente
         /// </summary>
         public decimal Sueldo { get; set; }
+        public int DiasVacacion { get; set; }
 
         public override string ToString()
         {

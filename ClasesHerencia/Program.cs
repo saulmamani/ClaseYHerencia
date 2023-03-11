@@ -108,7 +108,7 @@ namespace ClasesHerencia
 
         private static void MostrarLista(List<Docente> listaDocentes)
         {
-            Console.WriteLine("\n-------LISTA DE DOCENTES--------\n");
+            Console.WriteLine("\n------- LISTA DE DOCENTES --------\n");
 
             foreach (Docente item in listaDocentes)
             {
