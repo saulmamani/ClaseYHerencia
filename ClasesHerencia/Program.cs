@@ -58,6 +58,23 @@ namespace ClasesHerencia
                 Sueldo = 12
             });
 
+             listaDocentes.Add(new Docente()
+            {
+                Cuenta = "Lisa",
+                Password = "12477",
+                Nombre = "lisa",
+                Sueldo = 23
+            });
+
+             listaDocentes.Add(new Docente()
+            {
+                Cuenta = "Lidy",
+                Password = "12477",
+                Nombre = "lidi",
+                Sueldo = 230
+            });
+
+
             MostrarLista(listaDocentes);
 
             Double promedio = getPromedio(listaDocentes);
@@ -70,7 +87,7 @@ namespace ClasesHerencia
             Console.WriteLine("\n--- Promedio Tres: {0}", promedio3.ToString("##.##"));
 
             double promedio4 = getPromedioCuatro(listaDocentes);
-            Console.WriteLine("\n--- Promedio Cuatro: {0}", promedio4.ToString("##.##"));
+            Console.WriteLine("\n--- Promedio Cuatro Modificado: {0}", promedio4.ToString("##.##"));
 
 
             Console.ReadKey(); 
