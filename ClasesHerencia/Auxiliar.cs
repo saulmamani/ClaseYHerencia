@@ -16,7 +16,7 @@ namespace ClasesHerencia
 
         public override string ToString()
         {
-            return $"Cuenta: {Cuenta} | Pass: {Password} | Nombre: {Nombre} | Sueldo: {Sueldo} | Horas: {horas}";
+            return $"Cuenta: {Cuenta} | Pass: {Password} | Nombre: {Nombre} | Sueldo: {Sueldo} | Horas: {Horas}";
         }
     }
 }
