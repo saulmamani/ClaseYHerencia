@@ -12,6 +12,10 @@ namespace ClasesHerencia
         /// Sueldo del docente
         /// </summary>
         public decimal Sueldo { get; set; }
+
+        /// <summary>
+        /// Dias de vacacion
+        /// </summary>
         public int DiasVacacion { get; set; }
 
         public override string ToString()
