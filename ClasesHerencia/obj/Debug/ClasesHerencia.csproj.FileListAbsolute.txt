@@ -1,8 +1,0 @@
-F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.AssemblyReference.cache
-F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.SuggestedBindingRedirects.cache
-F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.CoreCompileInputs.cache
-F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe.config
-F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe
-F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.pdb
-F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
-F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb
